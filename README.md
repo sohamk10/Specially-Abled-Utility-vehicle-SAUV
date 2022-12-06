@@ -20,4 +20,6 @@ responsive gear shift assist encompassing a mechanism mounted to the gear lever
 controlled by push buttons on the steering wheel and assistive systems to aid people 
 disabled due to hearing inability. The team conducts research in several areas and performs 
 several design iterations which lead to the design of minimally invasive hand control 
-interface with good driver ergonomics.
+interface with good driver ergonomics.  
+
+![sauv](https://user-images.githubusercontent.com/117833435/205962713-c61d65f4-93e6-4cbc-b58b-45be02504e45.png)
